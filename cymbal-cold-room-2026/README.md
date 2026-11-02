@@ -16,7 +16,7 @@ Three incidents unfolded in the same environment over about a week. Each scenari
 
 ## Result
 
-Played solo as team **Cyber_Star**: 3 of 3 scenarios and 18 of 18 flags solved, 1975 points.
+Played solo as team **Cyber_Star**: 3 of 3 scenarios and 18 of 18 flags solved, 2,075 points, ranked 626th of 1,716 teams.
 
 ## Tooling
 
