@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" style="max-width: 100%;" align=left />
+<img src="../assets/htb-banner.png" style="max-width: 100%;" align=left />
 
 # Holmes CTF 2026: The Reichenbach Directive — Writeups
 

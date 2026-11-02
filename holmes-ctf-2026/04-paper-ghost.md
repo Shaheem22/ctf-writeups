@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" style="max-width: 100%;" align=left />
+<img src="../assets/htb-banner.png" style="max-width: 100%;" align=left />
 
 # Paper Ghost
 2<sup>nd</sup> October 2026
