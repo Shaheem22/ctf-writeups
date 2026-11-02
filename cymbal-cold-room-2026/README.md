@@ -1,3 +1,5 @@
+<img src="../assets/htb-banner.png" style="max-width: 100%;" align=left />
+
 # Cymbal Investments Cold Room (October 2026)
 
 Hosted by the Google Cloud Security Community in partnership with Hack The Box. A solo Jeopardy event run entirely inside **Google Security Operations (SecOps)**: you play a certified reconstructor working in a frozen SIEM environment, following evidence across identity, endpoint, cloud, mail, build-system and data logs, and separating attacker activity from legitimate maintenance.
